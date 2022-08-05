@@ -1,0 +1,9 @@
+Sessions 5 & 6: JavaScript == OOP Concept
+Lecture:
+ Objects, Object Definitions, Object Properties, Object Methods, Object Prototypes
+ Functions, Function Definitions, Function Parameters, Function Invocation, Function Closures
+ Introduction to Object Oriented Programming in JS
+o Method, Constructor, Inheritance, Encapsulation, Abstraction, Polymorphism
+Lab:
+ Write a JavaScript program to sort a list of elements by implementing a sorting algorithm.
+ Write a JavaScript program to list the properties of a JavaScript object.
